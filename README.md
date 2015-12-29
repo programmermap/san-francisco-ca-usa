@@ -1,10 +1,10 @@
-San Francisco, CA, USA
+Awesome San Francisco, CA, USA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about San Francisco, CA, USA. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in San Francisco, CA, USA. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in San Francisco, CA, USA
+Top 15 programmers in San Francisco, CA, USA
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in San Francisco, CA, USA.
+These are the 15 most influential programmers in San Francisco, CA, USA. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Tom Preston-Werner [@mojombo](https://github.com/mojombo) (96)
 2. Chris Wanstrath [@defunkt](https://github.com/defunkt) (89)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Guillermo Rauch [@rauchg](https://github.com/rauchg) (50)
 15. Brad Fitzpatrick [@bradfitz](https://github.com/bradfitz) (49)
 
-You can find the comprehensive statistics at the page for [San Francisco, CA, USA](http://programmermap.com/area/san-francisco-ca-usa) at programmermap.com.
+You can find comprehensive statistics at the page for [San Francisco, CA, USA](http://programmermap.com/area/san-francisco-ca-usa) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [d3](http://d3js.org) (39516)
+2. [animate.css](daneden.github.io/animate.css) (23487)
+3. [normalize.css](http://necolas.github.io/normalize.css/) (17049)
+4. [jquery-pjax](http://pjax.heroku.com) (11649)
+5. [Spoon-Knife](https://github.com/octocat/Spoon-Knife) (9785)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
